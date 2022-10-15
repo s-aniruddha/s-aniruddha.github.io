@@ -3,4 +3,5 @@ I am Aniruddha Sundararajan, final year Data Science Dual Degree student at [Ind
 
 ## Links
 
+* [Curriculum Vitae](CV.pdf)
 * [LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)
