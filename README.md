@@ -4,4 +4,3 @@ I am Aniruddha Sundararajan, final year Data Science Dual Degree student at [Ind
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)
-* [Github](https://github.com/s-aniruddha)
