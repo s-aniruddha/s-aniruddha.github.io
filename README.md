@@ -20,5 +20,5 @@ For more details about my projects and experience, please check out my [CV](CV.p
 
 
 --------------------------------------------------------------------------------------------------------------------------
-<sub>[Resume](CV.pdf)</sub> | <sub>[LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)</sub> 
+<sub>[CV](CV.pdf)</sub> | <sub>[LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)</sub> 
 ---------------------------------------------------------------------------------------------------------------------------
