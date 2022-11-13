@@ -7,7 +7,7 @@ In my junior year, I was awarded the prestigious [IITM Young Research Fellowship
 
 Apart from doing the coursework at IIT Madras, I regularly learn various topics via MOOCs and constantly seek to improve myself. 
 
-For more details about my projects and experience, check out my [CV](CV.pdf) and [github page](https://github.com/s-aniruddha)
+For more details about my projects and experience, please check out my [CV](CV.pdf) and [github page](https://github.com/s-aniruddha)
 
 
 ## News
