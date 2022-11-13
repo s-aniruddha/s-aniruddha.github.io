@@ -14,8 +14,8 @@ For more details about my projects and experience, please check out my [CV](CV.p
 ## News
 
 * Aug 2022: Started my dual degree thesis project on Hierarchical RL.
-* Jul 2022: Completed my [Amazon internship](amazon_internship_letter.pdf) and received a pre-placement offer to join full time!
-* Jul 2021: Completed my [Texas instruments internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full time!
+* Jul 2022: Completed my [Amazon Internship](amazon_internship_letter.pdf) and received a pre-placement offer to join full time!
+* Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full time!
 * Aug 2020: Selected for the inaugural cohort of IITM Young Research Fellow Program!
 
 
