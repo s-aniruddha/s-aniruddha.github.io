@@ -3,5 +3,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Aniruddha Sundararajan's homepage
-logo: MyPhoto.jpg
+logo: (MyPhoto.jpg | width=100)
 #description: [A short description of your site's purpose]
