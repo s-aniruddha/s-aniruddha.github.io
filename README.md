@@ -35,14 +35,14 @@ by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) w
 
 The following is a list of online courses that I completed. I recommend these courses to anyone interested in getting started with these topics!
 
-1. [Introduction to Operations Research](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22MG30S4446292602079149) from NPTEL.
-2. [Design and Analysis of Algorithms](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS27S43314749NPTEL2201036605) from NPTEL.
-3. [Deep Learning Specialization (5 courses)](https://www.coursera.org/account/accomplishments/specialization/certificate/NH6VGFBMAQPP) from Coursera.
-4. [CS-191x Quantum Mechanics and Quantum Computation](https://courses.edx.org/certificates/02497e362b344c0e8fe65c86959f256f) from edX and UC Berkeley.
-5. [Build a Modern Computer from First Principles: From Nand to Tetris Part I](https://www.coursera.org/account/accomplishments/certificate/C6P34Z5ZXWJN) from Coursera and The Hebrew University of Jerusalem.
-6. [Build a Modern Computer from First Principles: From Nand to Tetris Part II](https://www.coursera.org/account/accomplishments/certificate/RRUU4BYAR8MV) from Coursera and The Hebrew University of Jerusalem.
-7. [Programming, Data Structures and Algorithms Using Python](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS40S21183254191131470) from NPTEL.
-8. [DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/c2247d8b606042ab914b75d4891499c4) from edX and Microsoft.
+1. [Introduction to Operations Research](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22MG30S4446292602079149) from NPTEL
+2. [Design and Analysis of Algorithms](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS27S43314749NPTEL2201036605) from NPTEL
+3. [Deep Learning Specialization (5 courses)](https://www.coursera.org/account/accomplishments/specialization/certificate/NH6VGFBMAQPP) from Coursera and Deeplearning.ai
+4. [CS-191x Quantum Mechanics and Quantum Computation](https://courses.edx.org/certificates/02497e362b344c0e8fe65c86959f256f) from edX and UC Berkeley
+5. [Build a Modern Computer from First Principles: From Nand to Tetris Part I](https://www.coursera.org/account/accomplishments/certificate/C6P34Z5ZXWJN) from Coursera and The Hebrew University of Jerusalem
+6. [Build a Modern Computer from First Principles: From Nand to Tetris Part II](https://www.coursera.org/account/accomplishments/certificate/RRUU4BYAR8MV) from Coursera and The Hebrew University of Jerusalem
+7. [Programming, Data Structures and Algorithms Using Python](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS40S21183254191131470) from NPTEL
+8. [DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/c2247d8b606042ab914b75d4891499c4) from edX and Microsoft
 
 
 --------------------------------------------------------------------------------------------------------------------------
