@@ -1,14 +1,14 @@
 
-I am a final year undergraduate student at the Indian Institute of Technology Madras, where I am majoring in [Engineering Physics](https://physics.iitm.ac.in/program/3) and [Data Science](https://ioe.iitm.ac.in/program/data-science/) (5 year B.Tech + M.Tech. Dual Degree program). I am passionate about Artificial Intelligence, Data Science, Computer Science, and Physics. My research interests broadly include Deep Learning, Reinforcement Learning and Natural Language Processing. I am also intrigued about incorporating symmetries and other first principle abstractions as inductive bias into ML models to both improve their performance and increase their explainability.
+I am a final year undergraduate student at the Indian Institute of Technology Madras, where I am majoring in [Engineering Physics](https://physics.iitm.ac.in/program/3) and [Data Science](https://ioe.iitm.ac.in/program/data-science/) (B.Tech + M.Tech. 5 year Dual Degree program). I am passionate about Artificial Intelligence, Data Science, Computer Science, and Physics. My research interests broadly include Deep Learning, Reinforcement Learning, and Natural Language Processing. I am also intrigued about incorporating symmetries and other first principle abstractions as inductive bias into ML models to improve their performance and increase their explainability.
 
-Previously, I have worked as a signal processing intern at Texas Instruments, where I performed system modelling and signal level simulation of 10BaseT1S automotive ethernet in MATLAB. I have also worked as an Applied Scientist intern at Amazon in the Finance Automation team, where I worked in both supervised and unsupervised anomaly detection.
+Previously, I have worked as a signal processing intern at Texas Instruments, where I performed system modeling and signal level simulation of 10BaseT1S automotive ethernet in MATLAB. I have also worked as an Applied Scientist intern at Amazon in the Finance Automation team, where I worked in both supervised and unsupervised anomaly detection.
 
-In my junior year, I was awarded the prestigious [IITM Young Research Fellowship](https://yrf.iitm.ac.in/) to work on a year-long funded research project. Through the program, I worked with [Prof. Avhishek Chatterjee](https://sites.google.com/site/avhishek1984/) from the EE department of IIT Madras on the project "Achieving near capacity performance on queue-channel systems with waiting-time dependent errors". For my thesis project, I am working with [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) from the CS department of IIT Madras on the project "Matching options to tasks using Option Indexed Heirarchical Reinforcement Learning".
+In my junior year, I received the prestigious [IITM Young Research Fellowship](https://yrf.iitm.ac.in/) to work on a year-long funded research project. Through the program, I worked with [Prof. Avhishek Chatterjee](https://sites.google.com/site/avhishek1984/) from the EE department of IIT Madras on the project "Achieving near-capacity performance on queue-channel systems with waiting-time dependent errors". For my thesis project, I am working with [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) from the CS department of IIT Madras on the project "Matching options to tasks using Option Indexed Hierarchical Reinforcement Learning."
 
 
 Apart from doing the coursework at IIT Madras, I regularly learn various topics via MOOCs and constantly seek to improve myself. 
 
-For more details about my projects and experience, please check out my [CV](CV.pdf) and [github page](https://github.com/s-aniruddha)
+For more details about my projects and experience, please check out my [CV](CV.pdf) and [github page](https://github.com/s-aniruddha).
 
 
 ## News
