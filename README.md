@@ -29,6 +29,8 @@ by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) w
 
 * **Nand2Tetris:** I completed the *Build a Modern Computer from First Principles: Nand to Tetris Part I and Part II * from Coursera. In the first 6 projects, I built the hardware part of a fully functioning general-purpose modern computer starting from logic gates. In the next 6 projects, I built a modern software hierarchy that can translate and execute object-based, high-level languages on a bare-bone computer hardware platform. I also implemented a virtual machine and a compiler for a Java-like programming language (Jack). In project 9, I built a rudimentary runner game (similar to Google's Trex run) in the Jack language. You can find my code for all assignments in my github page [here](https://github.com/s-aniruddha/nand2tetris).
 
+* **Programming, Data Structures and Algorithms Using Python:** I made a series of [Jupyter notebooks](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL) while I was doing the NPTEL course to aid my learning. It is intended for anyone who is looking to get started with coding in python and learn basic data structures and algorithms.
+
 ![Screenshot](Screenshot.png)
 
 ## MOOCs
