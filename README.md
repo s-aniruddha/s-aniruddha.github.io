@@ -31,7 +31,7 @@ by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) w
 
 ![Screenshot](Screenshot.png)
 
-* **Programming, Data Structures and Algorithms Using Python:** I made a series of [Jupyter notebooks](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL) while I was doing the NPTEL course to aid my learning. They may be useful for anyone who is looking to get started with coding in python and learn basic data structures and algorithms.
+* **Programming, Data Structures and Algorithms Using Python:** I made a series of [Jupyter notebooks](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL) while doing the NPTEL course to aid my learning. They may be helpful for anyone who is looking to get started with coding in python and learn basic data structures and algorithms.
 
 
 
