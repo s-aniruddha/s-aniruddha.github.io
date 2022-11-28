@@ -18,6 +18,17 @@ For more details about my projects and experience, please check out my [CV](CV.p
 * Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full time!
 * Aug 2020: Selected for the inaugural cohort of IITM Young Research Fellow Program!
 
+## Projects
+
+1. **Optimization:** I made an academic poster as part of a group project in the course EE5121 Convex Optimization. It encapsulates key results from the paper [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) by Shibani Santurkar, Dimitris Tsipras, Andrew Ilyas, and Aleksander Madry. Check it out [here.](https://github.com/s-aniruddha/EE5121-Optimization-Project)
+
+2. **Achieving near-capacity performance in queue-channel systems with waiting-time dependent errors:** As part of the IITM Young Research Fellow Program, I designed error control coding schemes that achieve high data rates and make bits/qubits robust to noise in queue-channel systems with waiting time dependent errors by adapting the convolutional encoder and the BCJR decoder to suit this channel. [Here's](https://github.com/s-aniruddha/Young-Research-Fellow) an academic poster I made to summarize my work.
+
+3. **Linear Algebra:** I reproduced the numerical results of the paper [“Estimation of the bilinear form y*f(A)x for Hermitian matrices”](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
+by P. Fika and M. Mitrouli. You can view the report [here](https://github.com/s-aniruddha/EE5120-Linear-Algebra-Project)
+
+4. **Nand2Tetris:** 
+
 ## MOOCs
 
 The following is a list of online courses that I completed. I recommend these courses to anyone interested in getting started with these topics!
