@@ -8,26 +8,26 @@ In my junior year, I received the prestigious [IITM Young Research Fellowship](h
 
 Apart from doing the coursework at IIT Madras, I regularly learn various topics via MOOCs and constantly seek to improve myself. 
 
-For more details about my projects and experience, please check out my [CV](CV.pdf) and [github page](https://github.com/s-aniruddha).
+For more details about my projects and experience, please check out my [CV](CV.pdf) and [GitHub page](https://github.com/s-aniruddha).
 
 
 ## News
 
 * Aug 2022: Started my dual degree thesis project on Hierarchical RL.
-* Jul 2022: Completed my [Amazon Internship](amazon_internship_letter.pdf) and received a pre-placement offer to join full time!
-* Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full time!
-* Aug 2020: Selected for the inaugural cohort of IITM Young Research Fellow Program!
+* Jul 2022: Completed my [Amazon Internship](amazon_internship_letter.pdf) and received a pre-placement offer to join full-time!
+* Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full-time!
+* Aug 2020: Selected for the inaugural cohort of the IITM Young Research Fellow Program!
 
 ## Projects
 
-* **Optimization:** I made an academic poster as part of a group project in the course EE5121 Convex Optimization. It encapsulates key results from the paper [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) by Shibani Santurkar, Dimitris Tsipras, Andrew Ilyas, and Aleksander Madry. Check it out [here.](https://github.com/s-aniruddha/EE5121-Optimization-Project)
+* **Optimization:**  I made an academic poster for a group project in the course EE5121 Convex Optimization. It encapsulates key results from the paper [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) by Shibani Santurkar, Dimitris Tsipras, Andrew Ilyas, and Aleksander Madry. Check it out [here.](https://github.com/s-aniruddha/EE5121-Optimization-Project)
 
-* **Achieving near-capacity performance in queue-channel systems with waiting-time dependent errors:** As part of the IITM Young Research Fellow Program, I designed error control coding schemes that achieve high data rates and make bits/qubits robust to noise in queue-channel systems with waiting time dependent errors by adapting the convolutional encoder and the BCJR decoder to suit this channel. [Here's](https://github.com/s-aniruddha/Young-Research-Fellow) an academic poster I made to summarize my work.
+* **Achieving near-capacity performance in queue-channel systems with waiting-time dependent errors:** As part of the IITM Young Research Fellow Program, I designed error control coding schemes that achieve high data rates and make bits/qubits robust to noise in queue-channel systems with waiting-time dependent errors by adapting the convolutional encoder and the BCJR decoder to suit this channel. [Here's](https://github.com/s-aniruddha/Young-Research-Fellow) an academic poster I made to summarize my work.
 
 * **Linear Algebra:** I reproduced the numerical results of the paper [Estimation of the bilinear form y\*f(A)x for Hermitian matrices](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) without explicitly calculating f(A) by extrapolating the moments y\*f(A)x. Check out the detailed report [here](https://github.com/s-aniruddha/EE5120-Linear-Algebra-Project).
 
-* **Nand2Tetris:** I completed the *Build a Modern Computer from First Principles: Nand to Tetris Part I and Part II * from Coursera. In the first 6 projects, I built the hardware part of a fully functioning general-purpose modern computer starting from logic gates. In the next 6 projects, I built a modern software hierarchy that can translate and execute object-based, high-level languages on a bare-bone computer hardware platform. I also implemented a virtual machine and a compiler for a Java-like programming language (Jack). In project 9, I built a rudimentary runner game (similar to Google's Trex run) in the Jack language. You can find my code for all assignments in my github page [here](https://github.com/s-aniruddha/nand2tetris).
+* **Nand2Tetris:** I completed the "Build a Modern Computer from First Principles: Nand to Tetris Part I and Part II" from Coursera. In the first six projects, I started with logic gates and built the hardware part of a fully functioning general-purpose modern computer. In the next six projects, I built a modern software hierarchy that can translate and execute object-based, high-level languages on a bare-bone computer hardware platform. I also implemented a virtual machine and a compiler for a Java-like programming language (Jack). In project 9, I built a rudimentary runner game (similar to Google’s Trex run) in the Jack language. You can find my code for all assignments on my GitHub page here. [here](https://github.com/s-aniruddha/nand2tetris).
 
 ![Screenshot](Screenshot.png)
 
