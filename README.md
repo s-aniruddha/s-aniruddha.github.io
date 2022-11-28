@@ -27,10 +27,9 @@ For more details about my projects and experience, please check out my [CV](CV.p
 3. **Linear Algebra:** I reproduced the numerical results of the paper [“Estimation of the bilinear form y*f(A)x for Hermitian matrices”](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) without explicitly calculating f(A) by extrapolating the moments y*f(A)x. Check out the detailed report [here](https://github.com/s-aniruddha/EE5120-Linear-Algebra-Project)
 
-4. **Nand2Tetris:** I completed the *Build a Modern Computer from First Principles: Nand to Tetris Part I and Part II * from Coursera. In the first 6 projects, I built the hardware part of a fully functioning general-purpose modern computer starting from logic gates. In the next 6 projects, I built a modern software hierarchy that can translate and execute object-based, high-level languages on a bare-bone computer hardware platform. I also implemented a virtual machine and a compiler for a Java-like programming language (Jack). Project 9 is a basic runner game (similar to Google's Trex run) that I wrote in the Jack language (peer reviewed project).
+4. **Nand2Tetris:** I completed the *Build a Modern Computer from First Principles: Nand to Tetris Part I and Part II * from Coursera. In the first 6 projects, I built the hardware part of a fully functioning general-purpose modern computer starting from logic gates. In the next 6 projects, I built a modern software hierarchy that can translate and execute object-based, high-level languages on a bare-bone computer hardware platform. I also implemented a virtual machine and a compiler for a Java-like programming language (Jack). In project 9, I built a rudimentary runner game (similar to Google's Trex run) in the Jack language. You can find my code for all assignments in my github page [here](https://github.com/s-aniruddha/nand2tetris).
 
-
-![Screenshot](projects/09/project9/source/Screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## MOOCs
 
