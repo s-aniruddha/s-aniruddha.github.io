@@ -37,7 +37,7 @@ by P. Fika and M. Mitrouli. The key idea is to estimate bilinear forms of f(A) w
 
 ## MOOCs
 
-The following is a list of online courses that I completed. I recommend these courses to anyone interested in getting started with these topics!
+The following is a list of online courses that I completed. I recommend these courses to anyone interested in these topics!
 
 1. [Introduction to Operations Research](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22MG30S4446292602079149) from NPTEL
 2. [Design and Analysis of Algorithms](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS27S43314749NPTEL2201036605) from NPTEL
