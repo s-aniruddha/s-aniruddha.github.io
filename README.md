@@ -18,6 +18,19 @@ For more details about my projects and experience, please check out my [CV](CV.p
 * Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full time!
 * Aug 2020: Selected for the inaugural cohort of IITM Young Research Fellow Program!
 
+## MOOCs
+
+A list of online courses that I have completed:
+
+1. [Introduction to Operations Research](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22MG30S4446292602079149) from NPTEL.
+2. [Design and Analysis of Algorithms](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS27S43314749NPTEL2201036605) from NPTEL.
+3. [Deep Learning Specialization (5 courses)](https://www.coursera.org/account/accomplishments/specialization/certificate/NH6VGFBMAQPP) from Coursera.
+4. [CS-191x Quantum Mechanics and Quantum Computation](https://courses.edx.org/certificates/02497e362b344c0e8fe65c86959f256f) from edX and UC Berkeley.
+5. [Digital Signal Processing](https://www.coursera.org/account/accomplishments/certificate/WDDHFUBE9P7V) from Coursera and EPFL.
+6. [Build a Modern Computer from First Principles: From Nand to Tetris Part I](https://www.coursera.org/account/accomplishments/certificate/C6P34Z5ZXWJN) from Coursera and The Hebrew University of Jerusalem.
+7. [Build a Modern Computer from First Principles: From Nand to Tetris Part II](https://www.coursera.org/account/accomplishments/certificate/RRUU4BYAR8MV) from Coursera and The Hebrew University of Jerusalem.
+8. [Programming, Data Structures and Algorithms Using Python](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS40S21183254191131470) from NPTEL.
+9. [DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/c2247d8b606042ab914b75d4891499c4) from edX and Microsoft.
 
 
 --------------------------------------------------------------------------------------------------------------------------
