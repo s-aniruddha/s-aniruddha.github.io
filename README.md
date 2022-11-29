@@ -8,7 +8,7 @@ In my junior year, I received the prestigious [IITM Young Research Fellowship](h
 
 Apart from doing the coursework at IIT Madras, I regularly learn various topics via MOOCs and constantly seek to improve myself. 
 
-For more details about my projects and experience, please check out my [CV](CV.pdf) and [GitHub page](https://github.com/s-aniruddha).
+For more details about my projects and experience, please check out my [CV](Aniruddha_CV.pdf) and [GitHub page](https://github.com/s-aniruddha).
 
 
 ## News
@@ -50,6 +50,6 @@ The following is a list of online courses that I completed. I recommend these co
 
 
 --------------------------------------------------------------------------------------------------------------------------
-<sub>[CV](CV.pdf)</sub> | <sub>[LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)</sub> 
+<sub>[CV](Aniruddha_CV.pdf)</sub> | <sub>[LinkedIn](https://www.linkedin.com/in/aniruddha-sundararajan/)</sub> 
 
 
