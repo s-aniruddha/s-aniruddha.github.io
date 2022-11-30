@@ -20,6 +20,9 @@ For more details about my projects and experience, please check out my [CV](Anir
 
 ## Projects
 
+* **Option-Indexed Hierarchical Reinforcement Learning:** We learn an affinity function between options and the items present in the environment. This allows us to effectively reuse a large library of pre-trained options (lifelong learning setting) in zero-shot generalization at test time by restricting goal-directed learning to only those options relevant to the task at hand. This project is a collaboration between IIT Madras and Google Research, India. 
+I ideated and implemented a co-occurrence-based representation for options to match them to tasks efficiently. [Here](https://github.com/s-aniruddha/Option-Indexed-Hierarchical-RL) is a presentation I made to summarize the salient points in our work.
+
 * **Optimization:**  I made an academic poster for a group project in the course EE5121 Convex Optimization. It encapsulates key results from the paper [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html) by Shibani Santurkar, Dimitris Tsipras, Andrew Ilyas, and Aleksander Madry. Check it out [here.](https://github.com/s-aniruddha/EE5121-Optimization-Project)
 
 * **Achieving near-capacity performance in queue-channel systems with waiting-time dependent errors:** As part of the IITM Young Research Fellow Program, I designed error control coding schemes that achieve high data rates and make bits/qubits robust to noise in queue-channel systems with waiting-time dependent errors by adapting the convolutional encoder and the BCJR decoder to suit this channel. [Here's](https://github.com/s-aniruddha/Young-Research-Fellow) an academic poster I made to summarize my work.
