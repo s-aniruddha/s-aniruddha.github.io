@@ -11,7 +11,7 @@ For more details about my projects and experience, please check out my [CV](Anir
 ## News
 
 * Sep 2023: Started my journey at ETH Zurich.
-* Jul 2023: Graduated from IIT Madras with a dual degree!
+* Jul 2023: Graduated from IIT Madras with a [Dual Degree](IITM_gradecard.pdf)!
 * Aug 2022: Started my dual degree thesis project on Hierarchical RL.
 * Jul 2022: Completed my [Amazon Internship](amazon_internship_letter.pdf) and received a pre-placement offer to join full-time!
 * Jul 2021: Completed my [Texas Instruments Internship](TI_Internship_letter.pdf) and received a pre-placement offer to join full-time!
